@@ -1,3 +1,3 @@
 def call(){
-  echo "Hello"
+  echo "Hello. This is a sample function"
 }
